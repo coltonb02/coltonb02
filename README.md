@@ -33,6 +33,15 @@ My journey in all things technology has led me to develop a passion for cybersec
 
 </div>
 
+## Certifications I Plan on Getting
+<div>
+<img src="https://img.shields.io/badge/-CompTIA%20Security%2B-EE0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20A%2B-EE0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20Network%2B-EE0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CEH-9C1A22?&style=for-the-badge&logo=CEH&logoColor=white" />
+
+</div>
+
 ## Projects
 - <a href="https://github.com/coltonb02/BotiumToysControlsandComplianceChecklist">Botium Toys: Controls and Compliance Checklist </a>
 - <a href="https://github.com/coltonb02/Incident-Report-Analysis">Incident Report Analysis</a>
