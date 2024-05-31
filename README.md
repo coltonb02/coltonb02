@@ -1,26 +1,24 @@
 # Hello, I'm Colton Brantley
-<a href="https://www.linkedin.com/in/colton-brantley-240785297/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/coltonb02/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+Hi! Welcome to my cyber security portfolio :) 
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+After recently completing the Google Cybersecurity Certification Program, my passion for technology has reignited and I am dedicated to protecting digital environments and ensuring information security.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in all things technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically looking to become a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Conduct a Security Audit          | <a href="https://google.com">Botium Toys: Controls and Compliance Checklist </a>|
+| Use the NIST Cybersecurity Framework to Respond to a Security Incident | <a href="https://google.com">Incident Report Analysis</a>|
+| Use Linux Commands to Manage File Permissions         | <a href="https://google.com">File Permissions in Linux</a>|
+| Apply Filters to SQL Queries      | <a href="https://google.com">Apply Filters to SQL Queries</a>|
+| Analyze a Vulnerable System for a Small Business                  | <a href="https://google.com">Vulnerability Assessment Report</a>|
+| Update a File Through a Python Algorithm | <a href="https://google.com">Algorithm for File Updates in Python</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -46,15 +44,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certification-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://google.com">Botium Toys: Controls and Compliance Checklist </a>
+- <a href="https://google.com">Incident Report Analysis</a>
+- <a href="https://google.com">File Permissions in Linux</a>
+- <a href="https://google.com">Apply Filters to SQL Queries</a>
+- <a href="https://google.com">Vulnerability Assessment Report</a>
+- <a href="https://google.com">Algorithm for File Updates in Python</a>
