@@ -21,8 +21,6 @@ My journey in all things technology has led me to develop a passion for cybersec
 | Update a File Through a Python Algorithm | <a href="https://github.com/coltonb02/AlgorithmForFileUpdatesinPython">Algorithm for File Updates in Python</a>|
 
 ## Tools I've Used
-
-### Network
 <div>
     <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
     <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
