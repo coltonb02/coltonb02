@@ -13,12 +13,12 @@ My journey in all things technology has led me to develop a passion for cybersec
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Conduct a Security Audit          | <a href="https://google.com">Botium Toys: Controls and Compliance Checklist </a>|
-| Use the NIST Cybersecurity Framework to Respond to a Security Incident | <a href="https://google.com">Incident Report Analysis</a>|
-| Use Linux Commands to Manage File Permissions         | <a href="https://google.com">File Permissions in Linux</a>|
-| Apply Filters to SQL Queries      | <a href="https://google.com">Apply Filters to SQL Queries</a>|
-| Analyze a Vulnerable System for a Small Business                  | <a href="https://google.com">Vulnerability Assessment Report</a>|
-| Update a File Through a Python Algorithm | <a href="https://google.com">Algorithm for File Updates in Python</a>|
+| Conduct a Security Audit          | <a href="https://github.com/coltonb02/BotiumToysControlsandComplianceChecklist">Botium Toys: Controls and Compliance Checklist </a>|
+| Use the NIST Cybersecurity Framework to Respond to a Security Incident | <a href="https://github.com/coltonb02/Incident-Report-Analysis">Incident Report Analysis</a>|
+| Use Linux Commands to Manage File Permissions         | <a href="https://github.com/coltonb02/FilePermissionsinLinux">File Permissions in Linux</a>|
+| Apply Filters to SQL Queries      | <a href="https://github.com/coltonb02/ApplyFilterstoSQLQueries">Apply Filters to SQL Queries</a>|
+| Analyze a Vulnerable System for a Small Business                  | <a href="https://github.com/coltonb02/VulnerabilityAssesmentReport">Vulnerability Assessment Report</a>|
+| Update a File Through a Python Algorithm | <a href="https://github.com/coltonb02/AlgorithmForFileUpdatesinPython">Algorithm for File Updates in Python</a>|
 
 ## Tools I've Used
 
@@ -36,9 +36,9 @@ My journey in all things technology has led me to develop a passion for cybersec
 </div>
 
 ## Projects
-- <a href="https://google.com">Botium Toys: Controls and Compliance Checklist </a>
-- <a href="https://google.com">Incident Report Analysis</a>
-- <a href="https://google.com">File Permissions in Linux</a>
-- <a href="https://google.com">Apply Filters to SQL Queries</a>
-- <a href="https://google.com">Vulnerability Assessment Report</a>
-- <a href="https://google.com">Algorithm for File Updates in Python</a>
+- <a href="https://github.com/coltonb02/BotiumToysControlsandComplianceChecklist">Botium Toys: Controls and Compliance Checklist </a>
+- <a href="https://github.com/coltonb02/Incident-Report-Analysis">Incident Report Analysis</a>
+- <a href="https://github.com/coltonb02/FilePermissionsinLinux">File Permissions in Linux</a>
+- <a href="https://github.com/coltonb02/ApplyFilterstoSQLQueries">Apply Filters to SQL Queries</a>
+- <a href="https://github.com/coltonb02/VulnerabilityAssesmentReport">Vulnerability Assessment Report</a>
+- <a href="https://github.com/coltonb02/AlgorithmForFileUpdatesinPython">Algorithm for File Updates in Python</a>
