@@ -7,7 +7,7 @@ After recently completing the Google Cybersecurity Certification Program, my pas
 
 ## Objective
 
-My journey in all things technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically looking to become a Tier 1 Analyst.
+My journey in all things technology has led me to develop a passion for cybersecurity/IT, and I am now eager to transition into this field in any way I can!
 
 ## Skills
 
