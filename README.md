@@ -25,6 +25,7 @@ My journey in all things technology has led me to develop a passion for cybersec
     <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
     <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Oracle%20VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
 </div>
 
 ## Certifications
